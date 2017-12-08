@@ -1,4 +1,4 @@
-baseurl = "http://hugo.spf13.com/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Hugo Future Imperfect"
 theme = "hugo-future-imperfect"
@@ -146,6 +146,7 @@ pluralizeListTitles = false
   facebook        = "example"
   googleplus      = ""
   reddit          = "example"
+  quora           = ""
   youtube         = ""
   vimeo           = ""
   whatsapp        = "" # WhatsApp Number
